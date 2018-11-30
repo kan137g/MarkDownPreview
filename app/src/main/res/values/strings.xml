@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">MarkDownPreview</string>
+  <string name="input">
+    <![CDATA[
+        # Hello!  \n\n
+        Home 36 black:  \n\n
+        Memory 48 black:  \n\n
+        ### I AM ANOTHER HEADER\n\n
+        Sentiment Satisfied 64 red:
+    ]]></string>
+
+</resources>
